@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themohammadreza
 - 👀 I’m interested in Python, Data Eengineering and Security!
-- 🌱 I’m currently learning Python, SQL and LPIC.
+- 🌱 I’m currently learning Python, SQL and LPIC1.
 
 
 <!---
