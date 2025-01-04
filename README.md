@@ -12,7 +12,7 @@
 
 🧑‍💻 17-year-old student passionate about data engineering, ETL, and machine learning
 🎓 Currently pursuing advanced studies in computer science and network technologies
-📚 Immersed in Python, Pandas, NumPy, and Exploratory Data Analysis (EDA) through a machine learning Boot Camp
+📚 Interested in Python, Pandas, NumPy, and Exploratory Data Analysis (EDA) through a Machine Learning Boot Camp
 
 🚀 On a journey to becoming a Data Expert within the next 7 years
 💡 Building expertise in data processing and software development for large-scale data solutions
